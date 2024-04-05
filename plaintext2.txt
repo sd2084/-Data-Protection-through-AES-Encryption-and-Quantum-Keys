@@ -1,0 +1,20 @@
+name,pokedex id,height,weight,type,secundary type,hp,attack,defense,sp atk,sp def,speed
+bulbasaur,1,7,69,grass,poison,45,49,49,65,65,45
+ivysaur,2,10,130,grass,poison,60,62,63,80,80,60
+venusaur,3,20,1000,grass,poison,80,82,83,100,100,80
+charmander,4,6,85,fire,None,39,52,43,60,50,65
+charmeleon,5,11,190,fire,None,58,64,58,80,65,80
+charizard,6,17,905,fire,flying,78,84,78,109,85,100
+squirtle,7,5,90,water,None,44,48,65,50,64,43
+wartortle,8,10,225,water,None,59,63,80,65,80,58
+blastoise,9,16,855,water,None,79,83,100,85,105,78
+caterpie,10,3,29,bug,None,45,30,35,20,20,45
+metapod,11,7,99,bug,None,50,20,55,25,25,30
+butterfree,12,11,320,bug,flying,60,45,50,90,80,70
+weedle,13,3,32,bug,poison,40,35,30,20,20,50
+kakuna,14,6,100,bug,poison,45,25,50,25,25,35
+beedrill,15,10,295,bug,poison,65,90,40,45,80,75
+pidgey,16,3,18,normal,flying,40,45,40,35,35,56
+pidgeotto,17,11,300,normal,flying,63,60,55,50,50,71
+pidgeot,18,15,395,normal,flying,83,80,75,70,70,101
+rattata,19,3,35,normal,None,30,56,35,25,35,72
